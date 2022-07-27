@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     mode: 'universal',
 
     css: [
+        '~/assets/css/bootstrap.css',        
         '~/assets/css/bootstrap.min.css'
     ],
     js: [
